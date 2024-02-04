@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "745086099945",
+    "firebase_url": "https://pratik-82438-default-rtdb.firebaseio.com",
+    "project_id": "pratik-82438",
+    "storage_bucket": "pratik-82438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:92f086252c13e8cd7c6b78",
+        "android_client_info": {
+          "package_name": "com.chedo.tech.phase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:5be1159fdb6ad8537c6b78",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:7ab2ffb4f5897ecc7c6b78",
+        "android_client_info": {
+          "package_name": "com.example.pratik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:4cf371912fe8dfa07c6b78",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:64a7dc1ceedb69967c6b78",
+        "android_client_info": {
+          "package_name": "com.example.webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:1cc59a8d825b704f7c6b78",
+        "android_client_info": {
+          "package_name": "com.pratik.intership"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745086099945:android:75f3cdbad23d3b3b7c6b78",
+        "android_client_info": {
+          "package_name": "com.pratik.webappmix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcSqZv3SpKnXO5emAb9dPEU9SYlwiV9EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
